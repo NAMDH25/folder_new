@@ -1,0 +1,3 @@
+/home/namdh/Downloads/GTest/build/CMakeFiles/runTests.dir
+/home/namdh/Downloads/GTest/build/CMakeFiles/edit_cache.dir
+/home/namdh/Downloads/GTest/build/CMakeFiles/rebuild_cache.dir
