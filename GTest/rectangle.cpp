@@ -5,6 +5,7 @@ int getArea(int width, int height){
     if(width > 0 && height >0)
     {
         area  = width*height;
+        //commit here
     }
     return area;
 }
