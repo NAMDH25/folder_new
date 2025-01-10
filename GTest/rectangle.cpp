@@ -6,6 +6,7 @@ int getArea(int width, int height){
     {
         area  = width*height;
         //commit here
+        //commit there
     }
     return area;
 }
