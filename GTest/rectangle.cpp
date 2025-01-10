@@ -10,4 +10,6 @@ int getArea(int width, int height){
     }
     return area;
     //commit
+    //commit
+    
 }
